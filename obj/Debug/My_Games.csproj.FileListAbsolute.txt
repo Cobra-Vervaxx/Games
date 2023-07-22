@@ -1,0 +1,14 @@
+D:\My_Games\obj\Debug\My_Games.csproj.AssemblyReference.cache
+D:\My_Games\obj\Debug\My_Games.csproj.SuggestedBindingRedirects.cache
+D:\My_Games\obj\Debug\upg_finalni_projekt.My_Games.resources
+D:\My_Games\obj\Debug\upg_finalni_projekt.Piskvorky.resources
+D:\My_Games\obj\Debug\upg_finalni_projekt.Gravity_Shift.resources
+D:\My_Games\obj\Debug\My_Games.csproj.GenerateResource.cache
+D:\My_Games\obj\Debug\upg-finalni-projekt.exe
+D:\My_Games\obj\Debug\upg-finalni-projekt.pdb
+D:\My_Games\bin\Debug\upg-finalni-projekt.exe.config
+D:\My_Games\bin\Debug\upg-finalni-projekt.exe
+D:\My_Games\bin\Debug\upg-finalni-projekt.pdb
+D:\My_Games\obj\Debug\upg_finalni_projekt.Properties.Resources.resources
+D:\My_Games\obj\Debug\My_Games.csproj.CoreCompileInputs.cache
+D:\My_Games\obj\Debug\upg_finalni_projekt.Bugs.resources
